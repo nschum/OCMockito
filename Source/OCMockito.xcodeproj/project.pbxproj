@@ -1552,6 +1552,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"\"$(SRCROOT)\"",
 					"\"$(SRCROOT)/../Frameworks/OCHamcrest-4.1.1\"",
+					"\"$(SRCROOT)/../Carthage/Build/Mac\"",
 				);
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_GENERATE_TEST_COVERAGE_FILES = YES;
@@ -1579,6 +1580,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"\"$(SRCROOT)\"",
 					"\"$(SRCROOT)/../Frameworks/OCHamcrest-4.1.1\"",
+					"\"$(SRCROOT)/../Carthage/Build/Mac\"",
 				);
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
